@@ -12,4 +12,4 @@ import django
 If there is no import error raised, then Django is installed on your laptop.
 
 ## Speakers:
-Aayush, Apurv, Rahul, Rigvita, "Vidit _/\_"
+Aayush, Apurv, Rahul, Rigvita, Vidit
