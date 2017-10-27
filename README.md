@@ -11,5 +11,10 @@ import django
 ```
 If there is no import error raised, then Django is installed on your laptop.
 
+For ensuring that MySQL is installed, type
+```shell
+mysql -u root -p
+```
+
 ## Speakers:
 Aayush, Apurv, Rahul, Rigvita, Vidit
