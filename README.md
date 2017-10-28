@@ -9,7 +9,7 @@ Django-webapp code for ACM Backend SIG.
 Open the folder in a terminal, type
 ```shell
 chmod +x install.sh
-./install
+./install.sh
 ```
 For ensuring that Django is successfully installed, open a terminal and type,
 ```shell
