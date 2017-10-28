@@ -1,6 +1,10 @@
 # ACM-Backend-SIG
 Django-webapp code for ACM Backend SIG.
 
+## Details:  
+* Python Version: 2.7  
+* Django: 1.9
+
 ## Setup:
 Open the folder in a terminal, type
 ```shell
